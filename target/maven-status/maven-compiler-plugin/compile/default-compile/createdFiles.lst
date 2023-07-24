@@ -1,0 +1,15 @@
+com\jpa\newJPA\TempTableSp.class
+com\entity\Account.class
+com\sp\SingleColumnValueReturn.class
+com\jpa\newJPA\UpdateSP_N.class
+com\function\AccountInfoFunction.class
+com\sp\InsertSP.class
+com\nativequery\test.class
+com\jpa\newJPA\test.class
+com\jpa\newJPA\Sp.class
+com\sp\AllColumnValueReturn.class
+com\jpa\newJPA\InsertSP_N.class
+com\sp\UsingLike.class
+com\jpa\newJPA\AccountInfo.class
+com\sp\TempTableWithParams.class
+com\jpa\JavaPostgres\App.class
