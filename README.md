@@ -6,3 +6,9 @@
 5. Sp that can call another sp
 6. sp with temp table
 7. function with return list of data with parameter
+
+
+#Transaction
+1. From Sp (Single and Multiple)
+2. Exception example (internal and external)
+3. From Function

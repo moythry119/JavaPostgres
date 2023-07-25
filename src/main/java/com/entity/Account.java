@@ -1,9 +1,11 @@
 package com.entity;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 
 @Entity
+@Table(name = "acc_chartofaccount")
 public class Account {
 
 	  @Id
